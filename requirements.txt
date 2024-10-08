@@ -1,0 +1,4 @@
+opencv-python
+mediapipe
+torch
+python = 3.9
